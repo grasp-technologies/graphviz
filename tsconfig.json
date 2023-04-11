@@ -12,7 +12,8 @@
     "target": "es2017",
     "lib": [
       "esnext",
-      "webworker"
+      "webworker",
+      "dom"
     ],
     "baseUrl": "src",
     "outDir": "docs"

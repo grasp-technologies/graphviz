@@ -1,4 +1,4 @@
-let VERSION = "1.0.7"
+let VERSION = "1.1.0"
 
 let iOS = navigator.userAgent.indexOf("iPhone") != -1
 
