@@ -1,8 +1,11 @@
 {
   "name": "@grasp-webdev/graphviz",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Graphviz web app",
   "main": "docs/graphviz.js",
+  "files": [
+    "docs"
+  ],
   "scripts": {
     "build": "./build.sh -O",
     "build-g": "./build.sh",
